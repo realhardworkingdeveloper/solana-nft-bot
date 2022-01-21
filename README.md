@@ -159,7 +159,3 @@ Use `src/lib/marketplaces/solsea.test.ts` as example
 #### 3. Add the new marketplace to the existing list 
 `src/lib/marketplaces/marketplaces.ts`
 
-## Support
-
-If you have any questions or feedback, feel free to jump into our discord #dev-talk channel and have a chat.
-https://discord.com/invite/GYxur2tvzP
